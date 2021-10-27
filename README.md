@@ -15,10 +15,10 @@ print("\n fim da apresentação.")
 ---------------------------------------------------------------------------------------------------------------------------------
 - print("Hello World!")
 -    👋 My name is Derildo Pessoa
--    🙈 I am 23 years old, 1998
+-    🙈 I'm 23 years old, 1998
 -    🎓 I'm a Digital Games student.
 -    👀 I'm interested in programming and game designer
--    🌱 I'm currently learning python, pygame and developing vector images
+-    🌱 Currently I'm learning python, pygame and developing vector images
 -    💞️ I'm looking to collaborate with digital game companies.
 -    📫 how to find me: Juniiormar21@gmail.com
 -    ☎️ WhatsApp: api.whatsapp.com/send?1=pt_BR&phone=5511981027944
