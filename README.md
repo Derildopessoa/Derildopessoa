@@ -1,5 +1,5 @@
 - print("Olá Mundo!")
--   👋 Meu nome é Derildo pessoa
+-   👋 Meu nome é Junior Pessoa
 -   🙈 Tenho 23 anos,  1998 
 -   🎓 Sou estudante de Jogos digitais. 
 -   👀 Eu tenho interessado em Programação e designer de games
@@ -14,7 +14,7 @@ print("\n fim da apresentação.")
   
 ---------------------------------------------------------------------------------------------------------------------------------
 - print("Hello World!")
--    👋 My name is Derildo Pessoa
+-    👋 My name is Junior Pessoa
 -    🙈 I'm 23 years old, 1998
 -    🎓 I'm a Digital Games student.
 -    👀 I'm interested in programming and game designer
